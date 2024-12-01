@@ -150,6 +150,11 @@ const Hero = () => {
           G<b>A</b>MING B
         </h1> */}
         <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 tracking-tight text-blue-75">
+          <span className="text-3xl">
+            <sup className="absolute -top-3 mr-4 tracking-normal">
+              <b>With</b> ______________
+            </sup>
+          </span>
           <b>bala wunti</b>
         </h1>
 
@@ -162,7 +167,7 @@ const Hero = () => {
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              Enter the Metagame Layer <br /> Unleash the Play Economy
+              Path way to success <br /> Turning Pleasure to Presure
             </p>
 
             <Button
@@ -176,6 +181,7 @@ const Hero = () => {
       </div>
 
       <h1 className="special-font hero-heading absolute bottom-5 right-5 tracking-tight text-black">
+        <sup>with</sup>
         <b>bala wunt</b>i
       </h1>
     </div>
