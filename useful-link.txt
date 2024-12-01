@@ -1,1 +1,7 @@
 https://bennettfeely.com/clippy/
+
+
+GSAP Timeline
+GSAP ScrollTriggerView
+
+scrub simply means how we are moving the animation
